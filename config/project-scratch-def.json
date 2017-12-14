@@ -1,0 +1,7 @@
+{
+    "orgName": "Gugga Communications",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
